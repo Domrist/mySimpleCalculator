@@ -1,6 +1,6 @@
 #pragma once
 
-namespace ProjectCalculator2 {
+namespace NewNameSpace {
 
 	using namespace System;
 	using namespace System::ComponentModel;

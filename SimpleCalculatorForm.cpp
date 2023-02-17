@@ -1,7 +1,7 @@
 #include "SimpleCalculatorForm.h"
 #include <Windows.h>
 
-using namespace ProjectCalculator2;
+using namespace NewNameSpace;
 
 void main(array<String^>^ args) {
 
