@@ -1,0 +1,4 @@
+﻿  SimpleCalculatorForm.cpp
+C:\Users\domri\source\repos\ProjectCalculator\ProjectCalculator\SimpleCalculatorForm.cpp(6,33): warning C4829: Возможно, неправильные параметры функции main. Рекомендуемый вариант - "int main(Platform::Array<Platform::String^>^ argv)"
+  SimpleCalculatorForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  ProjectCalculator.vcxproj -> C:\Users\domri\source\repos\ProjectCalculator\Debug\ProjectCalculator.exe

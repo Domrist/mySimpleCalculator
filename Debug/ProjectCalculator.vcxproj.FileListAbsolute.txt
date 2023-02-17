@@ -1,0 +1,3 @@
+C:\Users\domri\source\repos\ProjectCalculator\ProjectCalculator\Debug\ProjectCalculator.vcxproj.AssemblyReference.cache
+C:\Users\domri\source\repos\ProjectCalculator\ProjectCalculator\Debug\ProjectCalculator.SimpleCalculatorForm.resources
+C:\Users\domri\source\repos\ProjectCalculator\ProjectCalculator\Debug\ProjectCalculator.vcxproj.GenerateResource.cache
